@@ -1,4 +1,4 @@
-package org.example.Adapter;
+package org.example.Esercizio1Adapter.Adapter;
 
 import org.example.Esercizio1Adapter.DataSource;
 import org.example.Esercizio1Adapter.Info;
